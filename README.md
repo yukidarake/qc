@@ -1,9 +1,10 @@
 qc
 ==
-
+```
 ＿人人人人人人人人人人人人人＿  
 ＞　突然の死を生成するやつ　＜  
-￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^￣                                                                                                                                                                            
+￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^￣
+```
 
 ## Installation
 ```
